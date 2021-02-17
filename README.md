@@ -1,2 +1,2 @@
 # ML-PROJECT
-Projects done by me on Machine Learning using Python
+Projects on Machine Learning for learning purpose using Python
