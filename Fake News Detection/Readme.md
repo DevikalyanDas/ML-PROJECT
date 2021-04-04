@@ -1,1 +1,4 @@
-This is a small fake news detection algorithm using TF and IDF vectorizer. This is solely for my practice purpose.
+# Detecting fake news using simple machine Learning tools
+
+## Goal
+To build a model to accurately classify a piece of news as REAL or FAKE. 
