@@ -1,2 +1,2 @@
 # ML-PROJECT
-Projects on Machine Learning for learning purpose using Python
+Projects on Machine Learning using Python
